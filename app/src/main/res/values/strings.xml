@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MySpinner</string>
+    <string name="btnName">Показать адрес</string>
+    <string name="textCountry">Выберите страну доставки</string>
+    <string name="textCity">Выберите город</string>
+    <string name="textHouse">Выберите номер дома</string>
+
+    <string-array name="country">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="ru_city">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="ua_city">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="bu_city">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Брест</item>
+    </string-array>
+</resources>
